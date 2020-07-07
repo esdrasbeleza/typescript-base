@@ -1,5 +1,5 @@
-const sum = (i: number, j: number) => {
-    return i + j;
-};
+const sum = (i: number, j: number): number => {
+    return i + j
+}
 
-export default sum;
+export default sum
